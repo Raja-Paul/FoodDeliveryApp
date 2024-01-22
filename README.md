@@ -5,10 +5,15 @@ Food Delivery App
 For Local Host
 
 run: For Backend
+
 npm install node --force
+
 nodemon index.js
 
 run:Frontend
+
 npm install node --force 
+
 npm install react-bootstrap bootstrap --force
+
 npm start
